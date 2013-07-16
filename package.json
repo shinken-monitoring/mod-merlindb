@@ -1,0 +1,26 @@
+{
+  "name": "merlindb",
+  "types": ["module"],
+  "version": "1.4",
+  "homepage": "http://github.com/shinken-monitoring/mod-merlindb",
+  "author": "Jean Gabès",
+  "description": "Shinken module for exporting data to a OP5/Merlin database (Mysql or sqlite)",
+  "contributors": [
+    {
+      "name": "Jean Gabès",
+      "email": "naparuba@gmail.com"
+    }
+  ],
+  "repository": "https://github.com/shinken-monitoring/mod-merlindb",
+  "keywords": [
+    "module",
+    "broker",
+    "merlindb",
+    "mysql",
+    "sqlite"
+  ],
+  "dependencies": {
+    "shinken": ">=1.4"
+  },
+  "license": "AGPL"
+}

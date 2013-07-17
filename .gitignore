@@ -36,4 +36,4 @@ nosetests.xml
 
 # OS generated files
 *.pyc
-*.DS_Store*
+*.DS_Store**~

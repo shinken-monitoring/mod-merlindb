@@ -1,3 +1,4 @@
+<a href='https://travis-ci.org/shinken-monitoring/mod-merlindb'><img src='https://api.travis-ci.org/shinken-monitoring/mod-merlindb.svg?branch=master' alt='Travis Build'></a>
 mod-merlindb
 ============
 
